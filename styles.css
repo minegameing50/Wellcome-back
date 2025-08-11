@@ -5,12 +5,12 @@ body{
 }
 button {
   background-color: #06C755;
-  color: white;
+  color: black;
   width: 600px;
-  height: 60px;
+  height: 40px;
   font-size: 40px;
   font-weight: bold;
   text-align: center;
   border-radius: 10px;
-  margin: 1500px 10px 0 10px;
+  margin: 2000px 10px 0 10px;
 }
